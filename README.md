@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrhxszo
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning web-development
+- 👀 I’m interested in python data analysis
+- 🌱 I’m currently learning python data analysis
 - 📫 How to reach me dhungananischal76@gmail.com
 
 <!---
